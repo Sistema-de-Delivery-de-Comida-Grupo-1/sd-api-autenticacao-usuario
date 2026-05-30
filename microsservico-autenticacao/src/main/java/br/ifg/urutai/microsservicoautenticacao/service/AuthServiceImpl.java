@@ -18,7 +18,6 @@ public class AuthServiceImpl extends br.ifg.urutai.microsservicoautenticacao.grp
 
         LoginResponse response;
 
-        // Comparação dinâmica baseada no banco de dados H2
         if (senhaDigitada.equals(senhaDoBanco)) {
             response = LoginResponse.newBuilder()
                     .setSucesso(true)
