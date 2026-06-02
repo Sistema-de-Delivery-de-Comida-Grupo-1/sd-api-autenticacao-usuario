@@ -10,7 +10,7 @@
     </parent>
     <groupId>br.ifg.urutai</groupId>
     <artifactId>microsservico-autenticacao</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>microsservico-autenticacao</name>
     <description>microsservico-autenticacao</description>
     <url/>
